@@ -2,9 +2,9 @@
 title: "Image Processing and Machine Vision"
 collection: teaching
 type: "M.S. student"
-permalink: /teaching/2011-Image Processing and Machine Vision
+permalink: /teaching/2012-Image Processing and Machine Vision
 venue: "School of Information Science and Technology"
-date: 2011-01-01
+date: 2012-01-01
 location: "Hangzhou normal University"
 ---
 
