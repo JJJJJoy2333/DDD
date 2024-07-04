@@ -4,7 +4,7 @@ collection: teaching
 type: "M.S. student"
 permalink: /teaching/2012-Image Processing and Machine Vision
 venue: "Image Processing and Machine Vision"
-date: 2012-01-01
+date: 
 location: "Hangzhou normal University"
 ---
 
