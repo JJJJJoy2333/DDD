@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 5"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2000-02-17-paper-title-number-5
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2000-02-17
 venue: 'GitHub Journal of Bugs'
