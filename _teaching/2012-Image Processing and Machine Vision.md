@@ -1,10 +1,10 @@
 ---
-title: "Computer Network"
+title: "Image Processing and Machine Vision"
 collection: teaching
-type: "Junior undergraduate student"
-permalink: /teaching/2013-Computer Network
+type: "M.S. student"
+permalink: /teaching/2012-Image Processing and Machine Vision
 venue: "University 1, Department"
-date: 2013-01-01
+date: 2012-01-01
 location: "Hangzhou normal University"
 ---
 
