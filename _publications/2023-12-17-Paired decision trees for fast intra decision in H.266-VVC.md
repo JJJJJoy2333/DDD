@@ -1,7 +1,7 @@
 ---
 title: "Paired decision trees for fast intra decision in H.266/VVC"
 collection: publications
-permalink: /publication/2023-12-17-Paired decision trees for fast intra decision in H. 266-VVC
+permalink: /publication/2023-12-17-Paired decision trees for fast intra decision in H.266-VVC
 excerpt: 'Shengrong Wen, Gongchun Ding, Dandan Ding*'
 date: 2023-12-17
 venue: 'Displays'
