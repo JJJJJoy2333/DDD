@@ -4,7 +4,7 @@ collection: teaching
 type: "Junior undergraduate student"
 permalink: /teaching/2014-Operating System
 venue: "School of Information Science and Technology"
-date: 
+date: 2014-01-01
 location: "Hangzhou Normal University"
 ---
 
