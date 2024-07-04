@@ -3,7 +3,7 @@ title: "Image Processing and Machine Vision"
 collection: teaching
 type: "M.S. student"
 permalink: /teaching/2012-Image Processing and Machine Vision
-venue: "Image Processing and Machine Vision"
+venue: "School of Information Science and Technology"
 date: 
 location: "Hangzhou normal University"
 ---
