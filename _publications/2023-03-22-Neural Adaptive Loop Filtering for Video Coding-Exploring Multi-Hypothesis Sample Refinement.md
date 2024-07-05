@@ -2,7 +2,7 @@
 title: "Neural Adaptive Loop Filtering for Video Coding: Exploring Multi-Hypothesis Sample Refinement"
 collection: publications
 permalink: /publication/2023-03-22-Neural Adaptive Loop Filtering for Video Coding-Exploring Multi-Hypothesis Sample Refinement
-excerpt: 'Dandan Ding, Junjie Wang, Guangkun Zhen, Debargha Mukherjee, Urvang Joshi, Zhan Ma'
+excerpt: '**Dandan Ding**, Junjie Wang, Guangkun Zhen, Debargha Mukherjee, Urvang Joshi, Zhan Ma'
 date: 2023-03-22
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10078282'
