@@ -1,4 +1,4 @@
-<img width="1022" alt="image" src="https://github.com/JJJJJoy2333/DDD/assets/91312690/1a2fc3e1-7924-4baa-a89d-165ec08eca6b">---
+---
 title: "Paired decision trees for fast intra decision in H.266/VVC"
 collection: publications
 permalink: /publication/2023-12-17-Paired decision trees for fast intra decision in H266-VVC
