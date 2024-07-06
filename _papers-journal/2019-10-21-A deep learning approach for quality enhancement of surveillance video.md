@@ -2,7 +2,7 @@
 title: "A deep learning approach for quality enhancement of surveillance video"
 collection: papers-journal
 permalink: /papers-journal/2019-10-21-A deep learning approach for quality enhancement of surveillance video
-excerpt: '**Dandan Ding**, Junchao Tong, and Lingyi Kong'
+excerpt: '<strong>Dandan Ding</strong>, Junchao Tong, and Lingyi Kong'
 date: 2019-10-21
 venue: 'Journal of Intelligent Transportation Systems'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/15472450.2019.1670659'
