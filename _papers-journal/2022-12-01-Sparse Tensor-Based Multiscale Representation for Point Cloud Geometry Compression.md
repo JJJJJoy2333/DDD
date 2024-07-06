@@ -1,7 +1,7 @@
 ---
 title: "Sparse Tensor-Based Multiscale Representation for Point Cloud Geometry Compression"
-collection: publications
-permalink: /publication/2022-12-01-Sparse Tensor-Based Multiscale Representation for Point Cloud Geometry Compression
+collection: papers-journal
+permalink: /papers-journal/2022-12-01-Sparse Tensor-Based Multiscale Representation for Point Cloud Geometry Compression
 excerpt: 'Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma'
 date: 2022-12-01
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
