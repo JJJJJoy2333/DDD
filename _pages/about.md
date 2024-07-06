@@ -12,12 +12,14 @@ She is an active member in video coding standardization. In 2007, she was involv
 
 Currently, she is active in the development of new video coding algorithms for the new generation video coding standards, such as AV2. She is invited to AOM symposium in 2019 to report her research work in AV1. Since 2018, she has continuously received the research grant sponsored by Google’s Chrome University Relationship Program (CURP). She is the first author for the first AI+ compression review paper published in the leading IEEE journal – The Proceedings of the IEEE.
 
+
+News
+======
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
