@@ -246,7 +246,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: papers-journal
     values:
       layout: single
       author_profile: true
