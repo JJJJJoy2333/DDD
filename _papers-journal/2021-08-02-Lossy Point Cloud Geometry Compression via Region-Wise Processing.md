@@ -1,0 +1,12 @@
+---
+title: "Lossy Point Cloud Geometry Compression via Region-Wise Processing"
+collection: papers-journal
+permalink: /papers-journal/2021-08-02-Lossy Point Cloud Geometry Compression via Region-Wise Processing
+excerpt: 'Wenjie Zhu; Yiling Xu; **Dandan Ding**; Zhan Ma; Mike Nilsson'
+date: 2021-08-02
+venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9503405'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+---
+
+Point cloud geometry (PCG) is used to precisely represent arbitrary-shaped 3D objects and scenes, is of great interest to vast applications which puts forward the pressing desire of high-efficiency PCG compression for transmission and storage. Existing PCG coding mostly relies on the octree model by which point-wise processing is applied without exploring nonlocal regional geometry similarity across the entire 3D surface. This work, instead, suggests the region-wise processing to leverage the region similarity to exploit inter-region redundancy for efficient lossy point cloud geometry compression. Towards this goal, a given PCG is first segmented into numerous local regions each of which comprises a portion of point cloud surface, and can be represented by a surface vector that describes the geometry shape numerically in a projected principal space. Subsequently, these regions are grouped into several discriminative clusters, assuring that inter-cluster similarity is minimized and intra-cluster similarity is maximized simultaneously, where the similarity is calculated using the regional surface vectors. In each cluster, we set a reference region having the largest similarity score to the others, which enables the non-reference region prediction from the reference one using alignment transform. In the end, we encode the reference regions directly using the lossless mode of the Geometry-based Point Cloud Compression (G-PCC), while corresponding non-reference regions are signaled using associated transform parameters. Compared with the state-of-the-art G-PCC using octree model, our region-wise approach can offer remarkable coding efficiency improvement, e.g., 32.4% and 22.0% Bjontegaard-delta rate (BD-Rate) gains for respective point-to-point ( D1 ) and point-to-plane ( D2 ) distortion evaluations, across a variety of common test sequences used in standard committee.

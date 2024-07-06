@@ -1,0 +1,12 @@
+---
+title: "Biprediction-Based Video Quality Enhancement via Learning"
+collection: papers-journal
+permalink: /papers-journal/2020-06-17-Biprediction-Based Video Quality Enhancement via Learning
+excerpt: '**Dandan Ding**, Wenyu Wang, Xinbo Gao, Zoe Liu, and Yong Fang*'
+date: 2020-06-17
+venue: 'IEEE transactions on Cybernetics'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9119800'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+---
+
+Convolutional neural networks (CNNs)-based video quality enhancement generally employs optical flow for pixelwise motion estimation and compensation, followed by utilizing motion-compensated frames and jointly exploring the spatiotemporal correlation across frames to facilitate the enhancement. This method, called the optical-flow-based method (OPT), usually achieves high accuracy at the expense of high computational complexity. In this article, we develop a new framework, referred to as biprediction-based multiframe video enhancement (PMVE), to achieve a one-pass enhancement procedure. PMVE designs two networks, that is, the prediction network (Pred-net) and the frame-fusion network (FF-net), to implement the two steps of synthesization and fusion, respectively. Specifically, the Pred-net leverages frame pairs to synthesize the so-called virtual frames (VFs) for those low-quality frames (LFs) through biprediction. Afterward, the slowly fused FF-net takes the VFs as the input to extract the correlation across the VFs and the related LFs, to obtain an enhanced version of those LFs. Such a framework allows PMVE to leverage the cross-correlation between successive frames for enhancement, hence capable of achieving high accuracy performance. Meanwhile, PMVE effectively avoids the explicit operations of motion estimation and compensation, hence greatly reducing the complexity compared to OPT. The experimental results demonstrate that the peak signal-to-noise ratio (PSNR) performance of PMVE is fully on par with that of OPT while its computational complexity is only 1% of OPT. Compared with other state-of-the-art methods in the literature, PMVE is also confirmed to achieve superior performance in both objective quality and visual quality at a reasonable complexity level. For instance, PMVE can surpass its best counterpart method by up to 0.42 dB in PSNR.
