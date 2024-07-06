@@ -1,7 +1,7 @@
 ---
 title: "A cross-scale framework for low-light image enhancement using spatial-spectral information"
-collection: publications
-permalink: /publication/2023-03-16-A cross-scale framework for low-light image enhancement using spatial-spectral information
+collection: papers-journal
+permalink: /papers-journal/2023-03-16-A cross-scale framework for low-light image enhancement using spatial-spectral information
 excerpt: 'Zhang, Yichi, Hengyu Liu, and **Dandan Ding**'
 date: 2023-03-16
 venue: 'Computers and Electrical Engineering'
