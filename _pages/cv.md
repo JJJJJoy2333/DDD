@@ -65,6 +65,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Research Advising
 ======
-* Currently signed in to 43 different slack teams
+* Graduated 10 M.S. students; advised 30 undergraduate and 10 high school students in research.
