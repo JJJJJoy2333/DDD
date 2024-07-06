@@ -1,7 +1,7 @@
 ---
 title: "On Content-Aware Post-Processing: Adapting Statistically Learned Models to Dynamic Content"
-collection: publications
-permalink: /publication/2023-09-18-On Content-Aware Post-Processing-Adapting Statistically Learned Models to Dynamic Content
+collection: papers-journal
+permalink: /papers-journal/2023-09-18-On Content-Aware Post-Processing-Adapting Statistically Learned Models to Dynamic Content
 excerpt: 'Yichi Zhang, Gongchun Ding, **Dandan Ding***, Zhan Ma, and Zhu Li'
 date: 2023-09-18
 venue: 'ACM Transactions on Multimedia Computing, Communications and Applications (ACM TOMM)'
