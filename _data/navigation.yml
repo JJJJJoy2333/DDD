@@ -7,6 +7,9 @@ main:
   - title: "Papers(Journal)"
     url: /papers_journal/
 
+    - title: "Papers(Conference)"
+    url: /papers_conference/
+
   - title: "Talks"
     url: /talks/    
 
