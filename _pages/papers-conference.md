@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Papers(Journal)"
-permalink: /papers_journal/
+title: "Papers(Conference)"
+permalink: /papers-conference/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.papers_journal reversed %}
+{% for post in site.papers-conference reversed %}
   {% include archive-single.html %}
 {% endfor %}
