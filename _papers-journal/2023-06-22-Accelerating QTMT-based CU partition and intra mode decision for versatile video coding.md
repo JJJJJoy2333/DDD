@@ -1,7 +1,7 @@
 ---
 title: "Accelerating QTMT-based CU partition and intra mode decision for versatile video coding"
-collection: publications
-permalink: /publication/2023-06-22-Accelerating QTMT-based CU partition and intra mode decision for versatile video coding
+collection: papers-journal
+permalink: /papers-journal/2023-06-22-Accelerating QTMT-based CU partition and intra mode decision for versatile video coding
 excerpt: 'Gongchun Ding, Xiujun Lin, Junjie Wang, **Dandan Ding**'
 date: 2023-06-22
 venue: 'Journal of Visual Communication and Image Representation'
