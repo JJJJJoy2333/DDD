@@ -203,7 +203,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  papers-journal:
     output: true
     permalink: /:collection/:path/
   portfolio:
