@@ -206,6 +206,9 @@ collections:
   papers-journal:
     output: true
     permalink: /:collection/:path/
+  papers-conference:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -243,10 +246,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _papers-journal
   - scope:
       path: ""
       type: papers-journal
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _papers-conference
+  - scope:
+      path: ""
+      type: papers-conference
     values:
       layout: single
       author_profile: true
