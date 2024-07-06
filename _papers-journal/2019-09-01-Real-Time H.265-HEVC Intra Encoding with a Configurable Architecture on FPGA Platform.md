@@ -2,7 +2,7 @@
 title: "Real-Time H.265/HEVC Intra Encoding with a Configurable Architecture on FPGA Platform"
 collection: papers-journal
 permalink: /papers-journal/2019-09-01-Real-Time H.265-HEVC Intra Encoding with a Configurable Architecture on FPGA Platform
-excerpt: '**Dandan Ding**, WANG Silong, LIU Zoe, and YUAN Qingshu'
+excerpt: '<strong>Dandan Ding</strong>, WANG Silong, LIU Zoe, and YUAN Qingshu'
 date: 2019-09-01
 venue: 'Chinese Journal of Electronics'
 paperurl: 'https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cje.2019.06.020'
