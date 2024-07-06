@@ -5,7 +5,7 @@ main:
     url: /news/
     
   - title: "Papers(Journal)"
-    url: /papers_journal/
+    url: /papers-journal/
 
   - title: "Papers(Conference)"
     url: /papers_conference/
