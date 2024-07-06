@@ -1,7 +1,7 @@
 ---
 title: "Scalable Point Cloud Attribute Compression"
-collection: publications
-permalink: /publication/2023-11-09-Scalable Point Cloud Attribute Compression
+collection: papers-journal
+permalink: /papers-journal/2023-11-09-Scalable Point Cloud Attribute Compression
 excerpt: 'Junteng Zhang; Jianqiang Wang; **Dandan Ding**; Zhan Ma'
 date: 2023-11-09
 venue: 'Scalable Point Cloud Attribute Compression, IEEE Trans. Multimedia (TMM)'
