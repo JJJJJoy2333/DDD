@@ -41,9 +41,15 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Papers(Journal)
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.papers-journal reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Papers(Conference)
+======
+  <ul>{% for post in site.papers-conference reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
