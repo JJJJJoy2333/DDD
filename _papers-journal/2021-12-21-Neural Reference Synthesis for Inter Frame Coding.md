@@ -2,7 +2,7 @@
 title: "Neural Reference Synthesis for Inter Frame Coding"
 collection: papers-journal
 permalink: /papers-journal/2021-12-21-Neural Reference Synthesis for Inter Frame Coding
-excerpt: '**Dandan Ding**, Xiang Gao, Chenran Tang, Zhan Ma '
+excerpt: '<strong>Dandan Ding</strong>, Xiang Gao, Chenran Tang, Zhan Ma '
 date: 2021-12-21
 venue: 'IEEE Transactions on Image Processing'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9658260'
