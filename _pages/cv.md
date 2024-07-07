@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B. Eng. degree (Honor.) in Communication Engineering from Zhejiang University, China, in 2006.
+* an exchange student in Microelectronic Systems Laboratory (GR-LSM) of EPFL, Switzerland, during 2007 to 2008.
+* Ph.D. degree from Zhejiang University in June 2011.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* a postdoc researcher from July 2011 through June 2013
+* a research associate in the Multimedia Communications Laboratory (MCL) till 2015
+* Since 2016, a faculty member with tenure track in the Department of Information Science and Engineering, Hangzhou Normal University.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Interests and Contributions
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Focuses on AI-based image/video processing, video coding algorithm design and optimization, point cloud sampling and compression, and SoC design.
+* Actively contributed to video coding standardization, notably in MPEG's reconfigurable video coding efforts in 2007.
+* Won the MPEG Appreciation Prize in 2011 for her leadership in MPEG activities.
+
+Academic Achievements
+======
+* Authored approximately 50 publications and filed 20 patents in international journals and conferences.
+* Currently engaged in developing novel video coding algorithms for next-generation standards like AV2.
+* Invited to present her research on AV1 at the AOM Symposium in 2019.
+* Has consistently received research grants from Google's Chrome University Relations Program (CURP) since 2018.
+* Is the lead author of the first AI+ compression review paper published in the prestigious IEEE journal, Proceedings of the IEEE.
 
 Papers(Journal)
 ======
