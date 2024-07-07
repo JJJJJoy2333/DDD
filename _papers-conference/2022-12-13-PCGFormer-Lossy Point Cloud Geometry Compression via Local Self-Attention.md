@@ -2,7 +2,7 @@
 title: "PCGFormer: Lossy Point Cloud Geometry Compression via Local Self-Attention"
 collection: papers-conference
 permalink: /papers-conference/2022-12-13-PCGFormer-Lossy Point Cloud Geometry Compression via Local Self-Attention
-excerpt: 'Gexin Liu, Jianqiang Wang, **Dandan Ding**, Zhan Ma'
+excerpt: 'Gexin Liu, Jianqiang Wang, <strong>Dandan Ding</strong>, Zhan Ma'
 date: 2022-12-13
 venue: '2022 IEEE International Conference on Visual Communications and Image Processing (VCIP), Suzhou, China'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10008892'
