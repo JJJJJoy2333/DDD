@@ -2,7 +2,7 @@
 title: "Decoder-Side Cross Resolution Synthesis for Video Compression Enhancement"
 collection: papers-journal
 permalink: /papers-journal/2022-01-13-Decoder-Side Cross Resolution Synthesis for Video Compression Enhancement
-excerpt: 'Ming Lu, Tong Chen, Zhenyu Dai, Dong Wang, **Dandan Ding**, and Zhan Ma '
+excerpt: 'Ming Lu, Tong Chen, Zhenyu Dai, Dong Wang, <strong>Dandan Ding</strong>, and Zhan Ma '
 date: 2022-01-13
 venue: 'IEEE Transactions on Multimedia'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9681152'
