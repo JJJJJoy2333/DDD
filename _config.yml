@@ -278,7 +278,7 @@ defaults:
       path: ""
       type: project
     values:
-      layout: talk
+      layout: project
       author_profile: true
       share: true
 
