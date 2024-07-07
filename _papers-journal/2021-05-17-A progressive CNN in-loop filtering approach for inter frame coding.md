@@ -2,7 +2,7 @@
 title: "A progressive CNN in-loop filtering approach for inter frame coding"
 collection: papers-journal
 permalink: /papers-journal/2021-05-17-A progressive CNN in-loop filtering approach for inter frame coding
-excerpt: '**Dandan Ding**, Lingyi Kong, Wenyu Wang, and Fengqing Zhu'
+excerpt: '<strong>Dandan Ding</strong>, Lingyi Kong, Wenyu Wang, and Fengqing Zhu'
 date: 2021-05-17
 venue: 'Signal Processing: Image Communication'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0923596521000321'
