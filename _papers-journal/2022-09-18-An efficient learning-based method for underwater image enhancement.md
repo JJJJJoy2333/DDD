@@ -2,7 +2,7 @@
 title: "An efficient learning-based method for underwater image enhancement"
 collection: papers-journal
 permalink: /papers-journal/2022-09-18-An efficient learning-based method for underwater image enhancement
-excerpt: 'Zhangkai Lyu, Andrew Peng, Qingwei Wang, **Dandan Ding**'
+excerpt: 'Zhangkai Lyu, Andrew Peng, Qingwei Wang, <strong>Dandan Ding</strong>'
 date: 2022-09-18
 venue: 'Displays'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0141938222000208'
