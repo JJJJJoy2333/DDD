@@ -2,7 +2,7 @@
 title: "YOGA: Yet Another Geometry-based Point Cloud Compressor"
 collection: papers-conference
 permalink: /papers-conference/2023-10-27-YOGA-Yet Another Geometry-based Point Cloud Compressor
-excerpt: 'Junteng Zhang, Tong Chen, **Dandan Ding**, and Zhan Ma'
+excerpt: 'Junteng Zhang, Tong Chen, <strong>Dandan Ding</strong>, and Zhan Ma'
 date: 2023-10-27
 venue: '31st ACM International Conference on Multimedia (ACM MM)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3581783.3613847'
