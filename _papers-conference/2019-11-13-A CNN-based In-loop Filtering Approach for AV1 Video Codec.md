@@ -2,7 +2,7 @@
 title: "A CNN-based In-loop Filtering Approach for AV1 Video Codec"
 collection: papers-conference
 permalink: /papers-conference/2019-11-13-A CNN-based In-loop Filtering Approach for AV1 Video Codec
-excerpt: '**Dandan Ding**, Guangyao Chen, Debargha Mukherjee, Urvang Joshi, and Yue Chen'
+excerpt: '<strong>Dandan Ding</strong>, Guangyao Chen, Debargha Mukherjee, Urvang Joshi, and Yue Chen'
 date: 2019-11-13
 venue: 'Picture Coding Symposium (PCS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8954565'
