@@ -2,7 +2,7 @@
 title: "Learning-based underwater image enhancement: An efficient two-stream approach"
 collection: papers-journal
 permalink: /papers-journal/2023-01-19-Learning-based underwater image enhancement-An efficient two-stream approach
-excerpt: '**Dandan Ding**, Shiwei Gan, Long Chen, Ben Wang'
+excerpt: '<strong>Dandan Ding</strong>, Shiwei Gan, Long Chen, Ben Wang'
 date: 2023-01-19
 venue: 'Displays'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S014193822200155X'
