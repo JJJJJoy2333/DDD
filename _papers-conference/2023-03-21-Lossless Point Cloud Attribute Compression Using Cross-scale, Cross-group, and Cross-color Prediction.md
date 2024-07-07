@@ -2,7 +2,7 @@
 title: "Lossless Point Cloud Attribute Compression Using Cross-scale, Cross-group, and Cross-color Prediction"
 collection: papers-conference
 permalink: /papers-conference/2023-03-21-Lossless Point Cloud Attribute Compression Using Cross-scale, Cross-group, and Cross-color Prediction
-excerpt: 'Jianqiang Wang, **Dandan Ding**, and Zhan Ma'
+excerpt: 'Jianqiang Wang, <strong>Dandan Ding</strong>, and Zhan Ma'
 date: 2023-03-21
 venue: 'IEEE Data Compression Conference (DCC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10125514'
