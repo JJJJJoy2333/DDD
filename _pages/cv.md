@@ -49,7 +49,7 @@ Papers(Conference)
   
 Project
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.project reversed %}
     {% include archive-single-project-cv.html  %}
   {% endfor %}</ul>
   
