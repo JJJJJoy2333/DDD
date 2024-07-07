@@ -2,7 +2,7 @@
 title: "Multiscale Point Cloud Geometry Compression"
 collection: papers-conference
 permalink: /papers-conference/2021-03-24-Multiscale Point Cloud Geometry Compression
-excerpt: 'Jianqiang Wang, **Dandan Ding**, Zhu Li, and Zhan Ma*'
+excerpt: 'Jianqiang Wang, <strong>Dandan Ding</strong>, Zhu Li, and Zhan Ma*'
 date: 2021-03-24
 venue: 'IEEE Data Compression Conference (DCC), Snow Bird, UT, USA'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9418789'
