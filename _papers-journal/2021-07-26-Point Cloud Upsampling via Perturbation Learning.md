@@ -2,7 +2,7 @@
 title: "Point Cloud Upsampling via Perturbation Learning"
 collection: papers-journal
 permalink: /papers-journal/2021-07-26-Point Cloud Upsampling via Perturbation Learning
-excerpt: '**Dandan Ding**, Chi Qiu, Fuchang Liu, Zhigeng Pan*'
+excerpt: '<strong>Dandan Ding</strong>, Chi Qiu, Fuchang Liu, Zhigeng Pan*'
 date: 2021-07-26
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9493165'
