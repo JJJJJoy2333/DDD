@@ -2,7 +2,7 @@
 title: "Lossy Point Cloud Geometry Compression via Region-Wise Processing"
 collection: papers-journal
 permalink: /papers-journal/2021-08-02-Lossy Point Cloud Geometry Compression via Region-Wise Processing
-excerpt: 'Wenjie Zhu; Yiling Xu; **Dandan Ding**; Zhan Ma; Mike Nilsson'
+excerpt: 'Wenjie Zhu; Yiling Xu; <strong>Dandan Ding</strong>; Zhan Ma; Mike Nilsson'
 date: 2021-08-02
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9503405'
