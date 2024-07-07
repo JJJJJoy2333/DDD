@@ -2,7 +2,7 @@
 title: "Advances in Video Compression System Using Deep Neural Network: A Review and Case Studies"
 collection: papers-journal
 permalink: /papers-journal/2021-03-04-Advances in Video Compression System Using Deep Neural Network-A Review and Case Studies
-excerpt: '**Dandan Ding**, Zhan Ma, Di Chen, Qingshuang Chen, Zoe Liu, and Fengqing Zhu*'
+excerpt: '<strong>Dandan Ding</strong>, Zhan Ma, Di Chen, Qingshuang Chen, Zoe Liu, and Fengqing Zhu*'
 date: 2021-03-04
 venue: 'Proceedings of the IEEE'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9369668'
