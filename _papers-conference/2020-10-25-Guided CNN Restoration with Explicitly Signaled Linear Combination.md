@@ -2,7 +2,7 @@
 title: "Guided CNN Restoration with Explicitly Signaled Linear Combination"
 collection: papers-conference
 permalink: /papers-conference/2020-10-25-Guided CNN Restoration with Explicitly Signaled Linear Combination
-excerpt: 'Lingyi Kong, **Dandan Ding**, Debargha Mukherjee, Urvang Joshi, Yue Chen'
+excerpt: 'Lingyi Kong, <strong>Dandan Ding</strong>, Debargha Mukherjee, Urvang Joshi, Yue Chen'
 date: 2020-10-25
 venue: 'IEEE International Conference on Image Processing (ICIP)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9190807'
