@@ -2,7 +2,7 @@
 title: "Biprediction-Based Video Quality Enhancement via Learning"
 collection: papers-journal
 permalink: /papers-journal/2020-06-17-Biprediction-Based Video Quality Enhancement via Learning
-excerpt: '**Dandan Ding**, Wenyu Wang, Xinbo Gao, Zoe Liu, and Yong Fang*'
+excerpt: '<strong>Dandan Ding</strong>, Wenyu Wang, Xinbo Gao, Zoe Liu, and Yong Fang*'
 date: 2020-06-17
 venue: 'IEEE transactions on Cybernetics'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9119800'
