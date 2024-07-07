@@ -2,7 +2,7 @@
 title: "G-PCC++: Enhanced Geometry-based Point Cloud Compression"
 collection: papers-conference
 permalink: /papers-conference/2023-10-27-G-PCC++ Enhanced Geometry-based Point Cloud Compression
-excerpt: 'Junzhe Zhang, Tong Chen, **Dandan Ding**, and Zhan Ma'
+excerpt: 'Junzhe Zhang, Tong Chen, <strong>Dandan Ding</strong>, and Zhan Ma'
 date: 2023-10-27
 venue: '31st ACM International Conference on Multimedia (ACM MM)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3581783.3613827'
