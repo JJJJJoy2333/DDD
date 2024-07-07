@@ -2,7 +2,7 @@
 title: "Learning-Based Multi-Frame Video Quality Enhancement"
 collection: papers-conference
 permalink: /papers-conference/2019-09-24-Learning-Based Multi-Frame Video Quality Enhancement
-excerpt: 'Junchao Tong, Xilin Wu, **Dandan Ding**, Zheng Zhu, and Zoe Liu'
+excerpt: 'Junchao Tong, Xilin Wu, <strong>Dandan Ding</strong>, Zheng Zhu, and Zoe Liu'
 date: 2019-09-24
 venue: 'IEEE International Conference on Image Processing (ICIP)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8803786'
