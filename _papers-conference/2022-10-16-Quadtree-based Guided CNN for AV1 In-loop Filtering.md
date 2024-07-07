@@ -2,7 +2,7 @@
 title: "Quadtree-based Guided CNN for AV1 In-loop Filtering"
 collection: papers-conference
 permalink: /papers-conference/2022-10-16-Quadtree-based Guided CNN for AV1 In-loop Filtering
-excerpt: 'Junjie Wang, Gongchun Ding, **Dandan Ding**, Debargha Mukherjee, Urvang Joshi, Yue Chen'
+excerpt: 'Junjie Wang, Gongchun Ding, <strong>Dandan Ding</strong>, Debargha Mukherjee, Urvang Joshi, Yue Chen'
 date: 2022-10-16
 venue: '2022 IEEE International Conference on Image Processing (ICIP)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9897898'
