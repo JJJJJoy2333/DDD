@@ -50,7 +50,7 @@ Papers(Conference)
 Project
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-project-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
