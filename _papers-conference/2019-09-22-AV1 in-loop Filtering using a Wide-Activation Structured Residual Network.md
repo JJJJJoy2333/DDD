@@ -2,7 +2,7 @@
 title: "AV1 in-loop Filtering using a Wide-Activation Structured Residual Network"
 collection: papers-conference
 permalink: /papers-conference/2019-09-22-AV1 in-loop Filtering using a Wide-Activation Structured Residual Network
-excerpt: 'Guangyao Chen, **Dandan Ding**, Debargha Mukherjee, Urvang Joshi, and Yue Chen'
+excerpt: 'Guangyao Chen, <strong>Dandan Ding</strong>, Debargha Mukherjee, Urvang Joshi, and Yue Chen'
 date: 2019-09-22
 venue: 'IEEE International Conference on Image Processing (ICIP)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8803127'
