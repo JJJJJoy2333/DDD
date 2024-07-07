@@ -2,7 +2,7 @@
 title: "Low Light RAW Image Enhancement Using Paired Fast Fourier Convolution and Transformer"
 collection: papers-conference
 permalink: /papers-conference/2022-12-15-Low Light RAW Image Enhancement Using Paired Fast Fourier Convolution and Transformer
-excerpt: 'Yichi Zhang, Hengyu Liu, **Dandan Ding**, Zhan Ma'
+excerpt: 'Yichi Zhang, Hengyu Liu, <strong>Dandan Ding</strong>, Zhan Ma'
 date: 2022-12-15
 venue: '2022 IEEE International Conference on Visual Communications and Image Processing (VCIP), Suzhou, China'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10008898'
