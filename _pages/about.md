@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
     newsList.style.transform = `translateY(-${currentIndex * itemHeight}px)`;
   }
 
-  setInterval(scrollNews, 3000); // 每3秒滚动一次
+  setInterval(scrollNews, 300); // 每3秒滚动一次
 });
 </script>
 
