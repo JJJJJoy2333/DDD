@@ -74,7 +74,7 @@ Currently, she is active in the development of new video coding algorithms for t
     </ul>
   </div>
 </div>
-
+<!--
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const newsList = document.getElementById('news-list');
@@ -100,6 +100,6 @@ document.addEventListener('DOMContentLoaded', function() {
   setInterval(scrollNews, 3000); // 每3秒滚动一次
 });
 </script>
-
+-->
 
 
