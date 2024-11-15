@@ -78,7 +78,17 @@ Currently, she is active in the development of new video coding algorithms for t
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const newsList = document.getElementById('news-list');
+  if (!newsList) {
+    console.error('news-list element not found');
+    return;
+  }
+
   const items = newsList.querySelectorAll('li');
+  if (items.length === 0) {
+    console.error('No news items found');
+    return;
+  }
+
   const itemHeight = items[0].offsetHeight;
   let currentIndex = 0;
 
@@ -87,14 +97,9 @@ document.addEventListener('DOMContentLoaded', function() {
     newsList.style.transform = `translateY(-${currentIndex * itemHeight}px)`;
   }
 
-  setInterval(scrollNews, 300); // 每3秒滚动一次
+  setInterval(scrollNews, 3000); // 每3秒滚动一次
 });
 </script>
 
 
-News
-======
-{% include base_path %}
-{% for post in site.talks %}
-  {% include archive-single.html %}
-{% endfor %}
+
