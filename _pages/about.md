@@ -72,11 +72,13 @@ Currently, she is active in the development of new video coding algorithms for t
   <div class="news-scroll">
     <ul id="news-list">
       <li>2024-07-06: The paper "Dynamic Point Cloud Geometry Compression Method Based on Time Domain Attention Mechanism" by Zhu Jiahao from our research group has been recommended to participate in the Best Paper of ChinaMM2024.</li>
+      <!--
       <li>2023-09-15: Received a research grant from Google CURP.</li>
       <li>2023-08-10: Presented at the AOM symposium 2023.</li>
       <li>2023-07-01: Started a new project on point cloud compression.</li>
       <li>2023-06-15: Won the best paper award at ICIP 2023.</li>
       <li>2023-05-01: Joined the editorial board of IEEE Transactions on Image Processing.</li>
+      -->
     </ul>
   </div>
 </div>
