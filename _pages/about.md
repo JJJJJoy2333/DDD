@@ -6,6 +6,55 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.profile {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: justify;
+}
+
+.news-container {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  margin: 20px auto;
+}
+
+.news-scroll {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+  overflow-y: hidden;
+}
+
+#news-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  transition: transform 1s ease-in-out;
+}
+
+#news-list li {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+#news-list li:last-child {
+  border-bottom: none;
+}
+</style>
+
 Dandan Ding received her B. Eng. degree (Honor.) in Communication Engineering from Zhejiang University, China, in 2006. During 2007 to 2008, she was an exchange student in Microelectronic Systems Laboratory (GR-LSM) of EPFL, Switzerland. After returning to Zhejiang University, she earned her Ph.D. degree in June 2011, and served first as a postdoc researcher from July 2011 through June 2013, then as a research associate in the Multimedia Communications Laboratory (MCL) till 2015. Since 2016, she has been with the Department of Information Science and Engineering, Hangzhou Normal University as a faculty member with tenure track. Her research interests include artificial intelligence based image/video processing, video coding algorithm design and optimization, point cloud sampling and compression, and SoC design.
 
 She is an active member in video coding standardization. In 2007, she was involved in the standardization activity of MPEG reconfigurable video coding and made great contribution. In 2011, she won the MPEG appreciation prize because her leadership in the MPEG activities. She has published around 50 papers and applied 20 patents in internal journals and conferences.
