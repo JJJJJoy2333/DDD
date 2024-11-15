@@ -16,6 +16,6 @@ Currently, she is active in the development of new video coding algorithms for t
 News
 ======
 {% include base_path %}
-{% for post in site.news %}
+{% for post in site.talks %}
   {% include archive-single.html %}
 {% endfor %}
