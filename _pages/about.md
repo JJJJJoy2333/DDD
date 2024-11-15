@@ -12,6 +12,36 @@ She is an active member in video coding standardization. In 2007, she was involv
 
 Currently, she is active in the development of new video coding algorithms for the new generation video coding standards, such as AV2. She is invited to AOM symposium in 2019 to report her research work in AV1. Since 2018, she has continuously received the research grant sponsored by Google’s Chrome University Relationship Program (CURP). She is the first author for the first AI+ compression review paper published in the leading IEEE journal – The Proceedings of the IEEE.
 
+## News
+<div class="news-container">
+  <div class="news-scroll">
+    <ul id="news-list">
+      <li>2023-10-01: Published a new paper on AI-based video compression.</li>
+      <li>2023-09-15: Received a research grant from Google CURP.</li>
+      <li>2023-08-10: Presented at the AOM symposium 2023.</li>
+      <li>2023-07-01: Started a new project on point cloud compression.</li>
+      <li>2023-06-15: Won the best paper award at ICIP 2023.</li>
+      <li>2023-05-01: Joined the editorial board of IEEE Transactions on Image Processing.</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const newsList = document.getElementById('news-list');
+  const items = newsList.querySelectorAll('li');
+  const itemHeight = items[0].offsetHeight;
+  let currentIndex = 0;
+
+  function scrollNews() {
+    currentIndex = (currentIndex + 1) % items.length;
+    newsList.style.transform = `translateY(-${currentIndex * itemHeight}px)`;
+  }
+
+  setInterval(scrollNews, 3000); // 每3秒滚动一次
+});
+</script>
+
 
 News
 ======
