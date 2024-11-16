@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Profile"
 author_profile: true
 redirect_from: 
   - /about/
@@ -55,6 +54,8 @@ body {
 }
 </style>
 -->
+<h1 style="color:#B22222;">Profile</h1>
+
 <span style="font-size: 16px;">
 Dandan Ding received her B. Eng. degree (Honor.) in Communication Engineering from Zhejiang University, China, in 2006. During 2007 to 2008, she was an exchange student in Microelectronic Systems Laboratory (GR-LSM) of EPFL, Switzerland. After returning to Zhejiang University, she earned her Ph.D. degree in June 2011, and served first as a postdoc researcher from July 2011 through June 2013, then as a research associate in the Multimedia Communications Laboratory (MCL) till 2015. Since 2016, she has been with the Department of Information Science and Engineering, Hangzhou Normal University as a faculty member with tenure track. Her research interests include artificial intelligence based image/video processing, video coding algorithm design and optimization, point cloud sampling and compression, and SoC design.
 </span>
