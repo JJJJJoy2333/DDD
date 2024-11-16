@@ -12,6 +12,25 @@
   {% assign title = post.title %}
 {% endif %}
 
+<style>
+  .download-button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .download-button:hover {
+    background-color: #0056b3;
+  }
+</style>
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -42,7 +61,8 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i> </p>
         {% elsif post.collection == 'papers-journal' %}
-          <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt}}; Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}   <a href="{{ post.paperurl }}"><strong>Download Paper</strong></a></p>
+          <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt}}; Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <button class="download-button" onclick="location.href='{{ post.paperurl }}'">Download Paper</button>
         {% elsif post.collection == 'papers-conference' %}
           <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt}}; Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}   <a href="{{ post.paperurl }}"><strong>Download Paper</strong></a></p>
         {% elsif post.collection == 'publication' %}
