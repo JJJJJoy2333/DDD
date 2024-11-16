@@ -16,13 +16,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<button id="show-more-btn" onclick="togglePapers()">More</button>
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
       const paperItems = document.querySelectorAll('.paper-item');
-      const limit = 15;
+      const limit = 5;
 
-      // 隐藏超过前15个的条目
+
       for (let i = limit; i < paperItems.length; i++) {
         paperItems[i].classList.add('hidden-paper');
       }
@@ -32,7 +33,7 @@ author_profile: true
       const paperItems = document.querySelectorAll('.paper-item');
       const hiddenPapers = document.querySelectorAll('.hidden-paper');
       const showMoreBtn = document.getElementById('show-more-btn');
-      const limit = 15;
+      const limit = 5;
 
       if (hiddenPapers.length > 0) {
         // 显示隐藏的条目
@@ -41,7 +42,7 @@ author_profile: true
         });
         showMoreBtn.textContent = 'Less';
       } else {
-        // 隐藏超过前15个的条目
+
         for (let i = limit; i < paperItems.length; i++) {
           paperItems[i].classList.add('hidden-paper');
         }
