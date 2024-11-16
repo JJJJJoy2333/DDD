@@ -11,7 +11,7 @@ main:
   #  url: /papers-conference/
 
   - title: "Publications"
-  url: /publication/
+    url: /publication/
 
   - title: "Project"
     url: /project/    
