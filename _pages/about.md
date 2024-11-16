@@ -39,7 +39,7 @@ body {
 }
 
 #news-list {
-  list-style-type: none;
+  list-style-type: disc;
   padding: 0;
   margin: 0;
   transition: transform 1s ease-in-out;
@@ -67,11 +67,11 @@ She is an active member in video coding standardization. In 2007, she was involv
 Currently, she is active in the development of new video coding algorithms for the new generation video coding standards, such as AV2. She is invited to AOM symposium in 2019 to report her research work in AV1. Since 2018, she has continuously received the research grant sponsored by Google’s Chrome University Relationship Program (CURP). She is the first author for the first AI+ compression review paper published in the leading IEEE journal – The Proceedings of the IEEE.
 </span>
 
-## News
+<h3 style="color:#B22222;">News</h3>
 <div class="news-container">
   <div class="news-scroll">
     <ul id="news-list">
-      <li style="font-size: 16px;">2024-07-06: The paper "Dynamic Point Cloud Geometry Compression Method Based on Time Domain Attention Mechanism" by Zhu Jiahao from our research group has been recommended to participate in the Best Paper of ChinaMM2024.</li>
+      <li style="font-size: 16px;"><strong>2024-07-06: </strong>The paper "Dynamic Point Cloud Geometry Compression Method Based on Time Domain Attention Mechanism" by Zhu Jiahao from our research group has been recommended to participate in the Best Paper of ChinaMM2024.</li>
       <!--
       <li>2023-09-15: Received a research grant from Google CURP.</li>
       <li>2023-08-10: Presented at the AOM symposium 2023.</li>
