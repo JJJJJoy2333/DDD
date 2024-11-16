@@ -1,0 +1,12 @@
+---
+title: "Neural Reference Synthesis for Inter Frame Coding"
+collection: papers-journal
+permalink: /papers-journal/2021-12-21-Neural Reference Synthesis for Inter Frame Coding
+excerpt: '<strong>Dandan Ding</strong>, Xiang Gao, Chenran Tang, Zhan Ma '
+date: 2021-12-21
+venue: 'IEEE Transactions on Image Processing'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9658260'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+---
+
+This work proposes the neural reference synthesis (NRS) to generate high-fidelity reference block for motion estimation and motion compensation (MEMC) in inter frame coding. The NRS is comprised of two submodules: one for reconstruction enhancement and the other for reference generation. Although numerous methods have been developed in the past for these two submodules using either handcrafted rules or deep convolutional neural network (CNN) models, they basically deal with them separately, resulting in limited coding gains. By contrast, the NRS proposes to optimize them collaboratively. It first develops two CNN-based models, namely EnhNet and GenNet. The EnhNet only uses spatial correlations within the current frame for reconstruction enhancement and the GenNet is then augmented by further aggregating temporal correlations across multiple frames for reference synthesis. However, a direct concatenation of EnhNet and GenNet without considering the complex temporal reference dependency across inter frames would implicitly induce iterative CNN processing and cause the data overfitting problem, leading to visually-disturbing artifacts and oversmoothed pixels. To tackle this problem, the NRS applies a new training strategy to coordinate the EnhNet and GenNet for more robust and generalizable models, and also devises a lightweight multi-level R-D (rate-distortion) selection policy for the encoder to adaptively choose reference blocks generated from the proposed NRS model or conventional coding process. Our NRS not only offers state-of-the-art coding gains, e.g. , >10% BD-Rate (Bjøntegaard Delta Rate) reduction against the High Efficiency Video Coding (HEVC) anchor for a variety of common test video sequences encoded at a wide bit range in both low-delay and random access settings, but also greatly reduces the complexity relative to existing learning-based methods by utilizing more lightweight DNNs. All models are made publicly accessible at https://github.com/IVC-Projects/NRS for reproducible research.
