@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Papers(Journal), recent 5 years"
+title: "Publications, recent 5 years"
 permalink: /publication/
 author_profile: true
 ---
