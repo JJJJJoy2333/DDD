@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Publications, recent 5 years"
 permalink: /publications/
 author_profile: true
 ---
