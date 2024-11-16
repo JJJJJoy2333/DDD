@@ -1,6 +1,6 @@
 ---
 title: "A Switchable Deep Learning Approach for In-Loop Filtering in Video Coding"
-collection: publication
+collection: publications
 permalink: /publications/2019-08-15-A Switchable Deep Learning Approach for In-Loop Filtering in Video Coding
 excerpt: '<strong>Dandan Ding</strong>, Lingyi Kong, Guangyao Chen, Zoe Liu, and Yong Fang*'
 date: 2019-08-15
