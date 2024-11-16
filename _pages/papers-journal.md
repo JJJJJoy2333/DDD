@@ -15,7 +15,7 @@ author_profile: true
 {% for post in site.papers-journal reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+<!--
 <button id="show-more-btn" onclick="togglePapers()">More</button>
 
 <script>
@@ -36,7 +36,7 @@ author_profile: true
       const limit = 5;
 
       if (hiddenPapers.length > 0) {
-        // 显示隐藏的条目
+
         hiddenPapers.forEach(paper => {
           paper.classList.remove('hidden-paper');
         });
@@ -50,3 +50,4 @@ author_profile: true
       }
     }
 </script>
+-->
