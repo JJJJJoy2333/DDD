@@ -3,8 +3,8 @@ title: "GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxi
 collection: papers-journal
 permalink: /papers-journal/2023-11-27-GRNet-Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
 excerpt: ' Gexin Liu; Ruixiang Xue; Jiaxin Li; <strong>Dandan Ding</strong> ; Zhan Ma '
-date: 2023-11-27
-venue: 'GitHub Journal of Bugs'
+date: 2024-10-07
+venue: 'IEEE Transactions on Visualization and Computer Graphics'
 paperurl: ' https://ieeexplore.ieee.org/abstract/document/10328911'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
