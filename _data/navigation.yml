@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  # - title: "News"
-  #   url: /news/
+  - title: "News"
+    url: /news/
     
-  #- title: "Papers(Journal)"
-  #  url: /papers-journal/
+  - title: "Papers(Journal)"
+    url: /papers-journal/
 
   #- title: "Papers(Conference)"
   #  url: /papers-conference/
