@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+<h1 style="color:#B22222;">CV</h1>
 
 {% include base_path %}
 
