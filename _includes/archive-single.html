@@ -63,7 +63,7 @@
         {% elsif post.collection == 'publications' %}
           <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt}}; </p>
           <p class="archive__item-excerpt" itemprop="description"> Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          <button class="download-button" onclick="location.href='{{ post.paperurl }}'">Download Paper</button>
+          <!-- <button class="download-button" onclick="location.href='{{ post.paperurl }}'">Download Paper</button> -->
         {% elsif post.collection == 'papers-conference' %}
           <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt}}; Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}   <a href="{{ post.paperurl }}"><strong>Download Paper</strong></a></p>
         {% elsif post.collection == 'papers-journal %}
