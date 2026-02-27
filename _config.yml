@@ -10,9 +10,9 @@
 locale                   : "zh-CN"
 title                    : "Dandan Ding / IVC (Intelligent Video Coding)"
 title_separator          : "-"
-name                     : &name "Dandan Ding 丁丹丹111"
+name                     : &name "Dandan Ding 丁丹丹"
 description              : &description "A person who loves video coding"
-url                      : #https://dandanding.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dandanding.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "IVC-Projects"
 
