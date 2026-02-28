@@ -74,7 +74,7 @@ I am an IEEE Senior Member and currently serve as an Associate Editor for IEEE S
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/Neural Adaptive Loop Filtering for Video Coding Exploring Multi-Hypothesis Sample Refinement.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Neural Adaptive Loop Filtering for Video Coding: Exploring Multi-Hypothesis Sample Refinement](https://ieeexplore.ieee.org/abstract/document/10078282)
+[Neural Adaptive Loop Filtering for Video Coding: Exploring Multi-Hypothesis Sample Refinement](https://ieeexplore.ieee.org/abstract/document/10078282)  
 **Dandan Ding**, Junjie Wang, Guangkun Zhen, Debargha Mukherjee, Urvang Joshi, Zhan Ma
 - We reformulate ALF as a Multi-Hypothesis Sample Refinement (MSR) problem, using a DNN model to generate multiple distortion hypotheses that are linearly superimposed to approximate the final reconstruction.
 </div>
@@ -82,7 +82,7 @@ I am an IEEE Senior Member and currently serve as an Associate Editor for IEEE S
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression](https://ieeexplore.ieee.org/abstract/document/9968173)
+[Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression](https://ieeexplore.ieee.org/abstract/document/9968173)  
 Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
 - We propose SparsePCGC, a low-complexity multiscale representation that performs sparse convolutions only on most-probable positively-occupied voxels to characterize spatial correlations efficiently.
 </div>
@@ -92,7 +92,7 @@ Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Proc. IEEE 2021</div><img src='images/Advances In Video Compression System Using Deep Neural Network.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Advances In Video Compression System Using Deep Neural Network: A Review And Case Studies](https://ieeexplore.ieee.org/abstract/document/9369668)
+[Advances In Video Compression System Using Deep Neural Network: A Review And Case Studies](https://ieeexplore.ieee.org/abstract/document/9369668)  
 **Dandan Ding**, Zhan Ma, Di Chen, Qingshuang Chen, Zoe Liu, Fengqing Zhu
 - This article extensively reviews technical advances in video compression using deep neural networks, presenting case studies on semantic pre-processing, end-to-end neural coding, and neural adaptive post-processing.
 </div>
@@ -100,7 +100,7 @@ Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='images/Neural Reference Synthesis for Inter Frame Coding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Neural Reference Synthesis for Inter Frame Coding](https://ieeexplore.ieee.org/abstract/document/9658260)
+[Neural Reference Synthesis for Inter Frame Coding](https://ieeexplore.ieee.org/abstract/document/9658260)  
 **Dandan Ding**, Xiang Gao, Chenran Tang, Zhan Ma
 - We propose a Neural Reference Synthesis (NRS) framework with joint optimization of reconstruction enhancement and reference synthesis modules to improve both in-ring filtering and inter-frame prediction.
 </div>
@@ -108,7 +108,7 @@ Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCyb 2022</div><img src='images/Biprediction-Based Video Quality Enhancement via Learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Biprediction-Based Video Quality Enhancement via Learning](https://ieeexplore.ieee.org/abstract/document/9119800)
+[Biprediction-Based Video Quality Enhancement via Learning](https://ieeexplore.ieee.org/abstract/document/9119800)  
 **Dandan Ding**, Wenyu Wang, Junchao Tong, Xinbo Gao, Zoe Liu, Yong Fang
 - We develop a biprediction-based multiframe video enhancement (PMVE) framework that synthesizes virtual frames to extract cross-correlations between successive frames for high-accuracy quality restoration.
 </div>
@@ -116,7 +116,7 @@ Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2021</div><img src='images/Point Cloud Upsampling via Perturbation Learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Point Cloud Upsampling via Perturbation Learning](https://ieeexplore.ieee.org/abstract/document/9493165)
+[Point Cloud Upsampling via Perturbation Learning](https://ieeexplore.ieee.org/abstract/document/9493165)  
 **Dandan Ding**, Chi Qiu, Fuchang Liu, Zhigeng Pan
 - We propose learning 2D perturbations through MLPs to estimate coordinate shifts from sparse input points to upsampled dense points, outperforming state-of-the-art methods in geometric uniformity.
 </div>
@@ -124,7 +124,7 @@ Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/exploit contextual clustering in learned image coding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Another way to the top: exploit contextual clustering in learned image coding](https://ojs.aaai.org/index.php/AAAI/article/view/28791)
+[Another way to the top: exploit contextual clustering in learned image coding](https://ojs.aaai.org/index.php/AAAI/article/view/28791)  
 Yichi Zhang, Zhihao Duan, Ming Lu, **Dandan Ding**, Fengqing Zhu, Zhan Ma
 - We propose Contextual Clustering based LIC (CLIC), which relies on clustering operations and local attention instead of traditional convolutions to generate compact representations for image compression.
 </div>
