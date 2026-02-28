@@ -1,0 +1,138 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+/* --- 论文展示框布局 (矩阵屏幕模式) --- */
+.paper-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0;
+
+  .paper-box-image {
+    justify-content: center;
+    display: flex;
+    width: 100%; 
+    order: 2;
+
+    /* 矩阵/屏幕容器 */
+    > div {
+      position: relative; 
+      width: 500px;
+      height: 300px;
+      background-color: #f9f9f9; 
+      border: 1px solid #eee;    
+      display: flex;
+      justify-content: center;   
+      align-items: center;       
+      overflow: hidden;          
+      /* 更改大框阴影：使其更柔和 */
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08); 
+    }
+
+    img {
+      max-width: 100%;           
+      max-height: 100%;          
+      width: auto;               
+      height: auto;              
+      object-fit: contain;       
+      box-shadow: none; // 图片本身不再带阴影，统一由容器负责
+    }
+  }
+
+  .paper-box-text {
+    max-width: 100%;
+    order: 1;
+    padding-bottom: 1em;
+  }
+
+  @include breakpoint($medium) {
+    .paper-box-image {
+      flex: 0 0 40%;
+      max-width: 40%;
+      order: 1;
+      justify-content: left;
+      
+      > div {
+        width: 100%; 
+        height: auto;
+        aspect-ratio: 500 / 300;
+      }
+    }
+
+    .paper-box-text {
+      flex: 0 0 60%;
+      max-width: 60%;
+      order: 2;
+      padding-left: 2em;
+    }
+  }
+}
+
+/* --- 蓝色框 (Badge) 样式 --- */
+.badge {
+  padding: 0.2em 0.8em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  color: white;
+  background-color: #00369f;
+  font-size: 0.85em;
+  font-weight: bold;
+  
+  /* --- 更改蓝色框阴影：使其具有浮起感 --- */
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.3); 
+}
+
+/* --- 锚点跳转偏移修复 --- */
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
+}
