@@ -72,6 +72,14 @@ I am an IEEE Senior Member and currently serve as an Associate Editor for IEEE S
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/exploit contextual clustering in learned image coding.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Another way to the top: exploit contextual clustering in learned image coding](https://ojs.aaai.org/index.php/AAAI/article/view/28791)  
+Yichi Zhang, Zhihao Duan, Ming Lu, **Dandan Ding**, Fengqing Zhu, Zhan Ma
+- We propose Contextual Clustering based LIC (CLIC), which relies on clustering operations and local attention instead of traditional convolutions to generate compact representations for image compression.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/Neural Adaptive Loop Filtering for Video Coding Exploring Multi-Hypothesis Sample Refinement.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Neural Adaptive Loop Filtering for Video Coding: Exploring Multi-Hypothesis Sample Refinement](https://ieeexplore.ieee.org/abstract/document/10078282)  
@@ -88,7 +96,13 @@ Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
 </div>
 </div>
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCyb 2022</div><img src='images/Biprediction-Based Video Quality Enhancement via Learning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Biprediction-Based Video Quality Enhancement via Learning](https://ieeexplore.ieee.org/abstract/document/9119800)  
+**Dandan Ding**, Wenyu Wang, Junchao Tong, Xinbo Gao, Zoe Liu, Yong Fang
+- We develop a biprediction-based multiframe video enhancement (PMVE) framework that synthesizes virtual frames to extract cross-correlations between successive frames for high-accuracy quality restoration.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Proc. IEEE 2021</div><img src='images/Advances In Video Compression System Using Deep Neural Network.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,14 +120,6 @@ Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCyb 2022</div><img src='images/Biprediction-Based Video Quality Enhancement via Learning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Biprediction-Based Video Quality Enhancement via Learning](https://ieeexplore.ieee.org/abstract/document/9119800)  
-**Dandan Ding**, Wenyu Wang, Junchao Tong, Xinbo Gao, Zoe Liu, Yong Fang
-- We develop a biprediction-based multiframe video enhancement (PMVE) framework that synthesizes virtual frames to extract cross-correlations between successive frames for high-accuracy quality restoration.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2021</div><img src='images/Point Cloud Upsampling via Perturbation Learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Point Cloud Upsampling via Perturbation Learning](https://ieeexplore.ieee.org/abstract/document/9493165)  
@@ -122,13 +128,7 @@ Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/exploit contextual clustering in learned image coding.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Another way to the top: exploit contextual clustering in learned image coding](https://ojs.aaai.org/index.php/AAAI/article/view/28791)  
-Yichi Zhang, Zhihao Duan, Ming Lu, **Dandan Ding**, Fengqing Zhu, Zhan Ma
-- We propose Contextual Clustering based LIC (CLIC), which relies on clustering operations and local attention instead of traditional convolutions to generate compact representations for image compression.
-</div>
-</div>
+
 
 ## Journal Papers
 - Improving Occupancy Prediction for Multiscale Point Cloud Geometry Compression, Z. Li, J. Zhu, D. Ding*, Z. Ma, IEEE TCSVT 2025 
