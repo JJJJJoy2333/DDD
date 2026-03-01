@@ -72,6 +72,30 @@ I am an IEEE Senior Member and currently serve as an Associate Editor for IEEE S
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/GeoQE Enhancing Quality of Experience in Point Cloud Streaming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[GeoQE: Enhancing Quality of Experience in Point Cloud Streaming](https://dl.acm.org/doi/epdf/10.1145/3746027.3754909)   
+Junzhe Zhang, Chengfeng Han, **Dandan Ding***, Zhan Ma
+- we propose GeoQE, an enhancement model that seamlessly integrates with the G-PCC decoder to mitigate compression artifacts and improve QoE.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/Efficient LiDAR Reflectance Compression via Scanning Serialization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Efficient LiDAR Reflectance Compression via Scanning Serialization](https://arxiv.org/pdf/2505.09433)  
+Jiahao Zhu, Kang You, **Dandan Ding***, Zhan Ma
+- we introduce SerLiC, a serialization-based neural compression frame work to fully exploit the intrinsic characteristics of LiDAR reflectance.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/Reno Real-time Neural Compression for 3D LiDAR Point Clouds.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Reno: Real-time Neural Compression for 3D LiDAR Point Clouds](https://arxiv.org/pdf/2505.09433)  
+Kang You, Tong Chen, **Dandan Ding**, M.Salman Asif, Zhan Ma
+- This paper proposes RENO, the first real-time neural codec for 3D LiDAR point clouds, achieving superior performance with a lightweight model.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/exploit contextual clustering in learned image coding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Another way to the top: exploit contextual clustering in learned image coding](https://ojs.aaai.org/index.php/AAAI/article/view/28791)  
