@@ -154,6 +154,7 @@ Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Proc. IEEE 2021</div><img src='images/Advances In Video Compression System Using Deep Neural Network.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Advances In Video Compression System Using Deep Neural Network: A Review And Case Studies](https://ieeexplore.ieee.org/abstract/document/9369668)  
@@ -161,6 +162,7 @@ Jianqiang Wang, **Dandan Ding**, Zhu Li, Xiaoxing Feng, Chuntong Cao, Zhan Ma
 - This article extensively reviews technical advances in video compression using deep neural networks, presenting case studies on semantic pre-processing, end-to-end neural coding, and neural adaptive post-processing.
 </div>
 </div>
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='images/Neural Reference Synthesis for Inter Frame Coding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
