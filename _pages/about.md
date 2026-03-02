@@ -34,6 +34,13 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
+I am currently a professor at the School of Information Science and Technology, Hangzhou Normal University, and lead the Intelligent Video Coding (IVC) Lab. My research focuses on advanced visual media representation and processing, with particular emphasis on image and video coding, point cloud compression, 3D representation and reconstruction, and hardware AI accelerators . 
+
+I have published over 90 high-quality papers in leading journals and conferences, including Proceedings of the IEEE, TPAMI, TIP, TVCG, TCSVT, TMM, etc., as well as top conferences such as CVPR, ICML, AAAI, IJCAI, and ACM MM. I have been actively engaged in international video coding standardization activities since 2007. My early contributions included work on MPEG Reconfigurable Video Coding (RVC), and in 2011, I was awarded the MPEG Appreciation Prize in recognition of my work in RVC. 
+
+I am a IEEE Senior Member and maintain active involvement in the IEEE Signal Processing Society and the IEEE Circuits and Systems Society. I served as Organizing Co-Chair of the ICME Workshop in 2023 and as International Liaison Co-Chair for the IEEE MMSP in 2024. I currently serve as an Associate Editor for IEEE Signal Processing Letters (SPL).
+
+<!--
 I am a Professor at the School of Information Science and Engineering, Hangzhou Normal University, where I lead the Intelligent Video Coding (IVC) Lab. My research primarily focuses on the cutting-edge fields of visual data compression and multimedia communication.
 
 
@@ -43,7 +50,7 @@ Specifically, my work explores next-generation visual compression technologies, 
 
 
 I am an IEEE Senior Member and currently serve as an Associate Editor for IEEE Signal Processing Letters. Over the years, I have actively contributed to international standardization, notably receiving the ISO/IEC Appreciation Prize in 2011 for my leadership in MPEG activities.
-
+-->
 
 
 # 🔥 News
