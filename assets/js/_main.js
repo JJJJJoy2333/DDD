@@ -95,4 +95,19 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+
+
+   // News section toggle logic
+  $("#news-toggle").on("click", function(e) {
+    e.preventDefault();
+    var $moreNews = $("#more-news");
+    
+    if ($moreNews.is(":visible")) {
+      $moreNews.slideUp();
+      $(this).text("..."); // 切换回省略号
+    } else {
+      $moreNews.slideDown();
+      $(this).text(" (show less)"); // 展开后显示的文字
+    }
+  });
 });
