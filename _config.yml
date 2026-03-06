@@ -21,7 +21,7 @@ repository               : "IVC-Projects"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dandanding.png"
+  avatar           : "/images/dandanding.png"
   name             : "Dandan Ding"
   pronouns         : # example: "she/her"  
   bio              : "Tel: 13989472415"
