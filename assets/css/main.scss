@@ -136,22 +136,3 @@ h1:before, .anchor:before {
     height: $scroll_offset; 
     margin-top: -$scroll_offset;
 }
-
-
-#news-toggle {
-    cursor: pointer;
-    color: #333;
-    font-weight: bold;
-    display: inline-block;
-    padding: 0 4px;
-    border-radius: 3px;
-    background-color: #eee; /* 给省略号加个浅色背景，像个按钮 */
-}
-
-#news-toggle:hover {
-    background-color: #d3d3d3;
-}
-
-#more-news li {
-    margin-top: 10px; /* 保持行间距 */
-}
