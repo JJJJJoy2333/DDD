@@ -1,7 +1,7 @@
 /* ==========================================================================
    jQuery plugin settings and other scripts
    ========================================================================== */
- 
+
 $(document).ready(function(){
    // Sticky footer
   var bumpIt = function() {
@@ -43,7 +43,7 @@ $(document).ready(function(){
       $(".author__urls").hide();
     }
   };
- 
+
   stickySideBar();
 
   $(window).resize(function(){
@@ -94,12 +94,10 @@ $(document).ready(function(){
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
-   
-  
 
 
 
-// News section toggle logic
+   // News section toggle logic
   $("#news-toggle").on("click", function(e) {
     e.preventDefault();
     var $moreNews = $("#more-news");
@@ -112,9 +110,4 @@ $(document).ready(function(){
       $(this).text(" (show less)"); // 展开后显示的文字
     }
   });
-
-
-
-
-   
-});    
+});
