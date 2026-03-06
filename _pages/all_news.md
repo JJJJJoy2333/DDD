@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: "Full News List"
