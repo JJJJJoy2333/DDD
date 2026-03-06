@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name               : "Dandan Ding" 
-  avatar             : "images/dandanding.png" 
+  avatar             : "/images/dandanding.png" 
   bio                : "Professor at Hangzhou Normal University" 
   location           : "Hangzhou, China"
   employer           : "Hangzhou Normal University"
