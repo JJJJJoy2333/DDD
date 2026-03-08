@@ -95,12 +95,12 @@ Junzhe Zhang, Jianqiang Wang, **Dandan Ding***, Zhan Ma
       View More Publications ...
     </a>
   </div>
-  
+-->
 </div>
 
 
 
-
+<!--
 ## Journal Papers
 - Improving Occupancy Prediction for Multiscale Point Cloud Geometry Compression, Z. Li, J. Zhu, D. Ding*, Z. Ma, IEEE TCSVT 2025 
 - Revisit Point Cloud Quality Assessment: Current Advances and a Multiscale-Inspired Approach, J. Zhang, T. Chen, D. Ding*, Z. Ma, IEEE TVCG 2025 
