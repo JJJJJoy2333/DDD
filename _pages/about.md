@@ -89,6 +89,23 @@ Junzhe Zhang, Jianqiang Wang, **Dandan Ding***, Zhan Ma
 - We develops a Scalable Point Cloud Attribute Compression solution, termed ScalablePCAC. In a two-layer example, ScalablePCAC uses the standard G-PCC at the base layer to directly encode the thumbnail point cloud that is downscaled from the original input, and a learning-based model at the enhancement layer to compress and restore the full-resolutioninput point cloud conditioned on the base layer reconstruction.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='/images/GeoQE Enhancing Quality of Experience in Point Cloud Streaming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[GeoQE: Enhancing Quality of Experience in Point Cloud Streaming](https://dl.acm.org/doi/epdf/10.1145/3746027.3754909)   
+Junzhe Zhang, Chengfeng Han, **Dandan Ding***, Zhan Ma
+- we propose GeoQE, an enhancement model that seamlessly integrates with the G-PCC decoder to mitigate compression artifacts and improve QoE.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='/images/Efficient LiDAR Reflectance Compression via Scanning Serialization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Efficient LiDAR Reflectance Compression via Scanning Serialization](https://arxiv.org/pdf/2505.09433)  
+Jiahao Zhu, Kang You, **Dandan Ding***, Zhan Ma
+- We introduce SerLiC, a serialization-based neural compression frame work to fully exploit the intrinsic characteristics of LiDAR reflectance.
+</div>
+</div>
+
 <!--
 <div style="text-align: right; width: 100%; margin-top: -10px;">
     <a href="{{ '/publications/' | relative_url }}" style="text-decoration: none; font-weight: bold; background-color: #eee; padding: 2px 10px; border-radius: 3px; font-size: 0.9em; color: #333;">
