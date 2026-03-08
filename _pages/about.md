@@ -42,7 +42,7 @@ I am a IEEE Senior Member and maintain active involvement in the IEEE Signal Pro
 
 
 
-# 🔥 News <a href="{{ '/news/' | relative_url }}" style="text-decoration: none; margin-left: 10px; font-weight: bold; background-color: #eee; padding: 0 4px; border-radius: 3px;">more</a>
+# 🔥 News <a href="{{ '/news/' | relative_url }}" target="_self" style="text-decoration: none; margin-left: 10px; font-weight: bold; background-color: #eee; padding: 0 4px; border-radius: 3px;">more</a>
 
 <ul style="list-style-type: none; margin-left: 0; padding-left: 0;">
   <li><strong>2026.01</strong>: &nbsp;📢 Serving as <strong>Area Chair</strong> for <strong>ICASSP 2026</strong> and <strong>ICME 2026</strong>.</li>
