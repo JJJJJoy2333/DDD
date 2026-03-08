@@ -42,7 +42,7 @@ I am a IEEE Senior Member and maintain active involvement in the IEEE Signal Pro
 
 
 
-# 🔥 News <a href="{{ '/news/' | relative_url }}" target="_self" style="text-decoration: underline; margin-left: 10px; font-weight: bold; background-color: #eee; padding: 0 4px; border-radius: 3px;">more news</a>
+# 🔥 News <a href="{{ '/news/' | relative_url }}" target="_self" style="text-decoration: underline; margin-left: 10px; font-weight: bold; background-color: #eee; padding: 0 4px; border-radius: 3px; color: #337ab7; font-size: 1.3em;">more news</a>
 
 <ul style="list-style-type: disc; margin-left: 20px; line-height: 1.8;">
   <li><strong>2026.01</strong>: &nbsp;📢 Serving as <strong>Area Chair</strong> for <strong>ICASSP 2026</strong> and <strong>ICME 2026</strong>.</li>
@@ -63,7 +63,7 @@ I am a IEEE Senior Member and maintain active involvement in the IEEE Signal Pro
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications <a href="{{ '/publications/' | relative_url }}" target="_self" style="text-decoration: underline; font-weight: bold; background-color: #eee; padding: 0 4px; border-radius: 3px;">more publications</a>
+# 📝 Publications <a href="{{ '/publications/' | relative_url }}" target="_self" style="text-decoration: underline; font-weight: bold; background-color: #eee; padding: 0 4px; border-radius: 3px; color: #337ab7; font-size: 1.3em;">more publications</a>
 <div class="slide-group">
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/Improving Occupancy Prediction for Multiscale Point Cloud Geometry Compression.png' alt="sym" width="100%"></div></div>
