@@ -23,4 +23,4 @@ author_profile: true
 
 <hr style="margin-top: 40px; border: 0; border-top: 1px solid #eee;">
 
-<a href="{{ '/' | relative_url }}" target="_self" style="text-decoration: none; color: #337ab7; font-size: 1.3em;">← Back to Home</a>
+<a href="{{ '/' | relative_url }}" target="_self" style="text-decoration: underline; color: #337ab7; font-size: 1.3em;">← Back to Home</a>
