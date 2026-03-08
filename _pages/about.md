@@ -63,7 +63,7 @@ I am a IEEE Senior Member and maintain active involvement in the IEEE Signal Pro
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications 
+# 📝 Publications <a href="{{ '/publications/' | relative_url }}" target="_self" style="text-decoration: none; font-weight: bold; background-color: #eee; padding: 0 4px; border-radius: 3px;">more publications</a>
 <div class="slide-group">
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/Improving Occupancy Prediction for Multiscale Point Cloud Geometry Compression.png' alt="sym" width="100%"></div></div>
@@ -89,7 +89,7 @@ Junzhe Zhang, Jianqiang Wang, **Dandan Ding***, Zhan Ma
 - We develops a Scalable Point Cloud Attribute Compression solution, termed ScalablePCAC. In a two-layer example, ScalablePCAC uses the standard G-PCC at the base layer to directly encode the thumbnail point cloud that is downscaled from the original input, and a learning-based model at the enhancement layer to compress and restore the full-resolutioninput point cloud conditioned on the base layer reconstruction.
 </div>
 </div>
-
+<!--
 <div style="text-align: right; width: 100%; margin-top: -10px;">
     <a href="{{ '/publications/' | relative_url }}" style="text-decoration: none; font-weight: bold; background-color: #eee; padding: 2px 10px; border-radius: 3px; font-size: 0.9em; color: #333;">
       View More Publications ...
@@ -135,7 +135,7 @@ Junzhe Zhang, Jianqiang Wang, **Dandan Ding***, Zhan Ma
 - Quadtree-based Guided CNN for AV1 In-loop Filtering, J. Wang, G. Ding, D. Ding*, D. Mukherjee, U. Joshi, Y. Chen, IEEE ICIP 2022 
 - Multiscale Point Cloud Geometry Compression, J. Wang, D. Ding, Z. Li, Z. Ma*, IEEE DCC 2021 
 - Guided CNN Restoration with Explicitly Signaled Linear Combination, L. Kong, D. Ding*, D. Mukherjee, U. Joshi, Y. Chen, IEEE ICIP 2020
-
+-->
 
 
 
