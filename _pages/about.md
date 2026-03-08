@@ -42,14 +42,12 @@ I am a IEEE Senior Member and maintain active involvement in the IEEE Signal Pro
 
 
 
-# 🔥 News
+# 🔥 News <a href="{{ '/news/' | relative_url }}" style="text-decoration: none; margin-left: 10px; font-weight: bold; background-color: #eee; padding: 0 4px; border-radius: 3px;">more</a>
 
 <ul style="list-style-type: none; margin-left: 0; padding-left: 0;">
   <li>*2026.01*: &nbsp;📢 Serving as **Area Chair** for **ICASSP 2026** and **ICME 2026**.</li>
   <li>*2025.10*: &nbsp;📄 Paper on "GeoQE" (Point Cloud Streaming) accepted by **ACM MM 2025**.</li>
-  <li>*2025.07*: &nbsp;🎉 One paper on LiDAR reflectance compression accepted by **ICML 2025**.
-      <a href="{{ '/news/' | relative_url }}" style="text-decoration: none; margin-left: 10px; font-weight: bold; background-color: #eee; padding: 0 4px; border-radius: 3px;">...</a>
-  </li>  
+  <li>*2025.07*: &nbsp;🎉 One paper on LiDAR reflectance compression accepted by **ICML 2025**.</li>  
 
   <div id="more-news" style="display: none;">
     <li>*2025.06*: &nbsp;🚀 Presented "Reno" (Real-time Neural Compression) at **CVPR 2025**.</li>
